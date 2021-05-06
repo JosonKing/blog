@@ -23,4 +23,4 @@
 
 2. `Parent`通过属性名称从`Child`获取值。 `Child`可以向`Parent`发送消息。 `Parent`可以在`Child`模型中调用函数。
 
-   ![postMate](C:\code\github\josonking.github.io\docs\blog\lib\images\postMate.png)
+   ![postMate](/images/postMate.png)
